@@ -1,7 +1,9 @@
 # TripGoal-Landing-Page 
 
 **Project Description**: TripGoal is a user interface that present a travel agency . It provides a user-friendly interface for customers to explore a the best touristic places with guideline.
-
+**Technologies Used**:
+- HTML and CSS.
+  
 ## Credits
 
 This project was made based on the following design : https://www.figma.com/file/OlmM3aNzcZp3LIzkqCSZVP/TripGoalLandingPage-u?node-id=0%3A1&mode=dev
