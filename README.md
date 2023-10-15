@@ -11,6 +11,6 @@ This project was made based on the following design : https://www.figma.com/file
 As the front-end developer . It was a pleasure working to create a seamless user interface and a visually appealing website.
 
 **Developer**: Yasser Laissaoui
-- **GitHub**: @YasserCoder
-- **LinkedIn**: [Your LinkedIn Profile Link]
-- **Email**: [Your Email Address]
+- **GitHub**: [@YasserCoder](https://github.com/YasserCoder)
+- **LinkedIn**: https://www.linkedin.com/in/yasser-laissaoui-43ab02283/
+- **Email**: yasser.laiss01@gmail.com
