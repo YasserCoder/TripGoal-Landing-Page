@@ -2,7 +2,7 @@
 
 **Project Description**: TripGoal is a user interface that present a travel agency . It provides a user-friendly interface for customers to explore a the best touristic places with guideline.
 **Technologies Used**:
-- HTML and CSS.
+- HTML , CSS and JavaScript.
   
 ## Credits
 
