@@ -1,8 +1,17 @@
 # TripGoal-Landing-Page 
 
-**Project Description**: TripGoal is a user interface that present a travel agency . It provides a user-friendly interface for customers to explore a the best touristic places with guideline.
+**Project Description**: TripGoal is a responsive user interface that present a travel agency . It provides a user-friendly interface for customers to explore a the best touristic places with guideline.
+
 **Technologies Used**:
 - HTML , CSS and JavaScript.
+
+## Live Demo
+
+Check out the live demo of the website [here](https://yassercoder.github.io/TripGoal-Landing-Page/).
+
+## Screenshots
+
+  <img src="https://github.com/YasserCoder/TripGoal-Landing-Page/blob/main/images/TripGoalScreen.png" alt="screenshot" height="1000px" width="auto">
   
 ## Credits
 
