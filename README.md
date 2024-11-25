@@ -23,5 +23,5 @@ As the front-end developer . It was a pleasure working to create a seamless user
 
 **Developer**: Yasser Laissaoui
 - **GitHub**: [@YasserCoder](https://github.com/YasserCoder)
-- **LinkedIn**: https://www.linkedin.com/in/yasser-laissaoui-43ab02283/
+- **LinkedIn**: [Yasser Laissaoui](https://www.linkedin.com/in/yasser-laissaoui/)
 - **Email**: yasser.laiss01@gmail.com
